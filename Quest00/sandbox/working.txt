@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-master에서의 작업상황입니다.
-=======
-working branch에서의 작업으로 변경
-
->>>>>>> working
+test
