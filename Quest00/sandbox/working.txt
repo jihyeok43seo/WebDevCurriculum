@@ -1,1 +1,1 @@
-git pull check
+master에서의 작업상황입니다.
